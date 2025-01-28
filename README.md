@@ -47,10 +47,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="35" alt="C#" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="35" alt="DynamoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="Eclipse" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="35" alt="IntelliJ IDEA" />
