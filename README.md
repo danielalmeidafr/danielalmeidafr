@@ -4,6 +4,15 @@
 
 <p align="left">I'm Back-End Developer from Brazil</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="50px"  alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="50px"  alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="50px"  alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 ###
 
 <div align="center">
@@ -56,20 +65,6 @@
   <img src="https://skillicons.dev/icons?i=idea" height="35" alt="IntelliJ IDEA" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/_alvessfr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:email@d.almeidafrr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/danielalvesalmeida">
-    <img src="https://i.imgur.com/yRpa1dQ.png" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
