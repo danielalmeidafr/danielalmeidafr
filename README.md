@@ -53,5 +53,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
 </div>
-
-###
