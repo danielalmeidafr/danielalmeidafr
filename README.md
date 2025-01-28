@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="Kotlin" />
