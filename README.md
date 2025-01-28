@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Back-End Developer from Brazil</p>
+**`Back-End Developer from Brazil`**
 
 ###
 
