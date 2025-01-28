@@ -4,12 +4,12 @@
 
 <p align="left">I'm Back-End Developer from Brazil</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="50px"  alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="30px"  alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="50px"  alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="30px"  alt="Gmail" title="Gmail" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="50px"  alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img height="30px"  alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
