@@ -2,7 +2,7 @@
 
 ###
 
-**`Back-End Developer from Brazil`**
+**`Android Developer from Brazil`**
 
 
 ###
