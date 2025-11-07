@@ -2,7 +2,7 @@
 
 ###
 
-**`Android Developer from Brazil`**
+**`Mobile Developer from Brazil`**
 
 
 ###
